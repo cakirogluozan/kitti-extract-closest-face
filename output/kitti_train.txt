@@ -1,0 +1,5 @@
+/home/ocakirog/Desktop/temp-kiti/lidar_camera_projection/src/../data/images/000001.png 599,157,629,189,0 387,182,411,203,1 679,164,688,194,0
+/home/ocakirog/Desktop/temp-kiti/lidar_camera_projection/src/../data/images/000002.png 845,168,995,329,0 664,192,700,223,0
+/home/ocakirog/Desktop/temp-kiti/lidar_camera_projection/src/../data/images/000003.png 615,184,727,286,1
+/home/ocakirog/Desktop/temp-kiti/lidar_camera_projection/src/../data/images/000004.png 280,186,315,215,1 365,185,391,205,1
+/home/ocakirog/Desktop/temp-kiti/lidar_camera_projection/src/../data/images/000005.png 325,179,356,238,1
