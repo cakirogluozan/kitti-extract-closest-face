@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
-
+from tqdm import trange
 
 class Box3D(object):
     """
@@ -96,7 +96,7 @@ def get_valid_kitti_face(objects, calib, yaw_th):
     P_rect2cam2 = calib['P2'].reshape((3, 4))
     class_list  = list()
     bbox_list  = list()
-    
+   
     for obj in objects:
         if obj.type == 'DontCare' or abs(obj.ry) < yaw_th or obj.type not in ['Car', 'Van', 'Truck', 'Bus']:
             continue
@@ -119,7 +119,7 @@ def get_valid_kitti_face(objects, calib, yaw_th):
                 if x < 0 or y < 0:
                     flag = True
                 pts_list.append((x, y)) 
-        if flag:
+        if not flag:
             bbox_list.append(pts_list)
             class_list.append(class_)
     return bbox_list, class_list
@@ -167,7 +167,7 @@ def label_line(image_path, bbox_list, class_list):
 
 def write_labels(image_list, label_list, calib_list, visualize=False, yaw_th=0.4):
     with open('../output/kitti_train.txt', 'w') as f:
-        for i in range(6):
+        for i in trange(len(label_list)):
             calib  = read_calib_file(calib_list[i])
             objects = load_label(label_list[i])
             image  = plt.imread(image_list[i])
@@ -178,7 +178,7 @@ def write_labels(image_list, label_list, calib_list, visualize=False, yaw_th=0.4
             if visualize:
                 visualize_bbox(image, bbox_list, class_list)       
 
-
+    f.close()
 # =========================================================
 # Utils
 # =========================================================
