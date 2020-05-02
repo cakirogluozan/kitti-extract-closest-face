@@ -98,9 +98,9 @@ def get_valid_kitti_face(objects, calib, yaw_th):
     bbox_list  = list()
     
     for obj in objects:
-        if obj.type == 'DontCare' or abs(obj.ry) < yaw_th:
+        if obj.type == 'DontCare' or abs(obj.ry) < yaw_th or obj.type not in ['Car', 'Van', 'Truck', 'Bus']:
             continue
-        print("object type=", obj.type)
+            
         box3d_pixelcoord = map_box_to_image(obj, P_rect2cam2)
         if obj.ry > yaw_th:
             valid_pts_ind = [0, 1, 4, 5] # the vehicle's face
@@ -110,12 +110,18 @@ def get_valid_kitti_face(objects, calib, yaw_th):
             class_ = 'back'
             
         pts_list    = list()
-            
+        
+        flag = False
         for ind in range(len(box3d_pixelcoord[0])):
             if ind in valid_pts_ind:
-                pts_list.append((int(box3d_pixelcoord[0][ind]), int(box3d_pixelcoord[1][ind]))) 
-        bbox_list.append(pts_list)
-        class_list.append(class_)
+                x = int(box3d_pixelcoord[0][ind])
+                y = int(box3d_pixelcoord[1][ind])
+                if x < 0 or y < 0:
+                    flag = True
+                pts_list.append((x, y)) 
+        if flag:
+            bbox_list.append(pts_list)
+            class_list.append(class_)
     return bbox_list, class_list
 
 
