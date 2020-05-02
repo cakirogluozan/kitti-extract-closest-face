@@ -5,9 +5,9 @@ from utils import write_labels
 if __name__ == '__main__':
 
     # TODO:
-    CALIB_DIR = "TODO"
-    IMAGE_DIR = "TODO"
-    LABEL_DIR = "TODO"
+    CALIB_DIR = "/raid/data/l4data/benchmark_data/kitti-ozan/object/data_object_calib/training/calib"
+    IMAGE_DIR = "/raid/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2"
+    LABEL_DIR = "/raid/data/l4data/benchmark_data/kitti-ozan/object/training/label_2"
 
     calib_list = [os.path.join(CALIB_DIR, png) for png in os.listdir(CALIB_DIR) if png.endswith('.txt')]
     calib_list.sort()
