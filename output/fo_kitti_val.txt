@@ -1,0 +1,197 @@
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000010.png 354,189,470,296,1 845,179,926,252,0 813,178,878,231,0 559,180,613,231,1 598,179,638,218,1 793,178,840,220,0 664,175,688,204,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000031.png 335,182,453,297,0 872,182,1028,340,0 749,181,849,277,0 446,132,522,228,1 665,179,712,222,0 622,171,649,200,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000066.png 672,169,709,206,0 592,173,622,200,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000114.png 589,190,668,253,0 185,186,244,241,1 694,158,763,236,0 325,176,362,216,1 475,181,515,229,0 515,186,542,219,0 535,182,556,211,0 556,180,572,200,0 579,181,622,220,0 329,180,360,206,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000160.png 494,183,540,226,1 558,180,577,200,1 343,179,363,203,1 591,180,632,221,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000198.png 145,195,289,305,1 335,176,406,241,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000240.png 567,178,610,215,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000345.png 570,176,622,224,0 246,198,377,307,0 361,181,402,220,0 435,87,522,227,0 342,176,374,206,0 535,181,562,202,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000357.png 573,173,611,208,0 150,193,287,313,0 185,186,261,250,0 395,185,458,239,0 334,181,378,221,0 436,178,481,219,0 498,158,536,204,0 540,167,559,191,0 57,178,129,246,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000360.png 591,162,619,192,0 886,185,929,244,0 261,188,296,217,1 337,181,368,208,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000367.png 500,179,529,203,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000383.png 452,168,481,191,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000396.png 555,187,576,204,1 594,180,618,205,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000482.png 779,185,861,265,0 1019,183,1105,267,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000492.png 558,178,614,229,0 263,177,328,243,0 454,177,518,238,0 394,182,432,216,0 231,184,274,224,0 499,182,535,214,0 526,182,551,203,0 360,181,389,208,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000544.png 377,183,366,218,1 410,179,401,212,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000575.png 140,205,303,337,1 445,183,493,228,1 479,153,528,212,1 543,178,585,214,1 525,177,547,199,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000592.png 541,177,629,260,0 571,167,637,235,0 731,173,821,266,0 682,177,743,238,0 651,174,697,220,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000593.png 569,179,602,208,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000612.png 254,181,306,282,0 738,194,817,269,0 325,178,307,241,1 892,188,876,229,0 639,163,675,206,0 444,179,438,207,1 466,174,464,205,1 627,164,652,196,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000621.png 196,193,349,362,1 450,194,512,254,1 523,186,556,221,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000628.png 308,191,386,262,1 388,189,441,238,1 434,186,475,226,1 464,184,502,216,1 899,154,884,194,0 760,156,769,191,1 497,180,526,207,1 672,171,706,203,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000651.png 583,180,637,223,0 283,186,393,291,0 460,166,509,231,0 470,164,515,222,0 521,168,547,207,0 656,155,699,205,0 586,174,620,205,0 395,155,472,265,0 113,132,189,224,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000680.png 340,194,458,310,1 488,188,549,260,1 581,186,629,236,1 797,168,824,196,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000740.png 408,181,509,310,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000751.png 366,182,355,223,1 657,178,709,232,0 468,190,525,242,1 74,181,3,286,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000796.png 292,203,425,321,1 50,208,192,336,1 486,187,537,236,1 531,185,562,214,1 546,172,572,205,1 564,177,583,198,1 422,171,504,261,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000888.png 912,179,948,210,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000898.png 693,128,800,257,1 561,172,585,195,0 1143,195,1175,217,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000904.png 584,186,617,211,0 533,183,559,206,0 600,170,620,199,0 237,179,271,211,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000932.png 462,172,486,206,1 551,183,568,197,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/000996.png 169,237,340,353,1 805,189,973,332,0 443,181,496,233,1 681,179,735,231,0 468,163,520,221,1 660,179,710,221,0 437,154,449,206,0 595,165,618,191,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001049.png 1110,184,1157,231,0 1016,182,1068,233,0 605,172,636,202,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001090.png 542,188,572,219,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001140.png 60,212,186,327,1 737,175,840,264,0 273,199,348,267,1 395,180,448,235,1 440,183,480,223,1 639,176,659,194,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001173.png 552,177,570,194,0 586,164,613,194,0 43,183,90,235,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001195.png 560,178,617,229,0 193,176,368,346,0 289,177,349,238,0 465,177,525,234,0 408,182,443,214,0 255,184,296,222,0 503,182,538,213,0 528,181,553,203,0 54,188,123,249,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001209.png 596,176,638,216,0 870,171,1032,330,0 763,177,865,277,0 719,170,793,255,0 704,174,762,237,0 688,170,728,226,0 677,175,707,211,0 509,181,530,200,1 658,174,678,201,0 644,175,664,197,0 638,169,655,192,0 481,176,499,194,1 460,177,472,191,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001213.png 557,174,704,315,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001231.png 542,181,562,196,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001257.png 583,180,600,193,0 445,183,474,212,1 500,178,520,196,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001275.png 598,175,626,202,0 325,187,361,219,1 390,184,424,217,1 484,180,504,199,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001396.png 597,182,653,227,0 419,178,444,201,1 636,170,664,202,0 582,176,621,211,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001460.png 692,191,776,264,0 491,189,523,216,1 366,196,429,256,1 416,192,466,238,1 151,221,265,316,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001464.png 596,178,658,228,0 450,182,508,248,0 484,176,524,222,0 510,174,544,213,0 534,173,561,203,0 567,159,588,194,0 879,193,1003,303,0 778,188,857,255,0 737,169,802,231,0 68,178,155,266,1 236,175,297,236,1 605,172,641,205,0 314,174,363,222,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001482.png 313,184,294,230,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001525.png 703,164,766,232,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001584.png 477,185,520,220,1 133,210,266,336,1 309,195,396,274,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001604.png 592,177,634,217,0 316,185,354,220,1 362,181,399,214,1 672,174,700,210,0 668,176,696,209,0 650,177,673,204,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001613.png 431,182,454,201,1 315,152,355,207,1 362,156,396,203,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001656.png 815,192,999,358,1 519,178,580,258,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001664.png 906,149,1095,337,0 792,166,857,231,0 777,144,825,206,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001678.png 560,106,652,218,0 38,193,73,228,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001693.png 523,163,559,199,1 399,154,469,225,1 447,160,495,214,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001718.png 9,212,156,309,1 475,185,523,222,0 737,166,745,209,0 281,185,314,214,1 437,177,459,198,0 619,195,713,275,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001731.png 260,199,388,331,1 681,162,716,198,0 468,186,492,222,0 725,161,751,186,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001840.png 672,181,728,233,0 94,218,278,374,1 1086,168,1040,228,0 1004,150,970,218,0 414,185,458,230,0 279,198,353,265,1 900,165,883,209,0 470,185,502,214,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001870.png 115,110,268,313,0 267,185,296,227,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001877.png 444,171,471,194,1 306,174,340,205,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001891.png 596,176,638,216,0 910,170,1112,359,0 779,177,896,290,0 729,170,810,262,0 710,174,772,241,0 692,170,734,229,0 680,174,710,212,0 504,181,526,202,1 659,173,680,202,0 645,174,665,197,0 638,169,656,192,0 479,176,497,194,1 457,177,470,191,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001951.png 87,189,175,311,1 268,188,309,229,1 507,169,534,197,1 442,160,465,194,1 419,179,453,208,1 340,183,373,215,1 1184,155,1191,233,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/001981.png 570,155,603,197,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002013.png 600,176,629,205,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002045.png 769,151,885,277,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002047.png 236,181,262,205,1 268,181,292,201,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002048.png 912,186,982,251,0 503,178,541,269,0 867,169,909,214,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002088.png 570,182,627,228,0 168,178,290,318,0 415,184,463,238,0 450,187,490,231,0 512,185,560,219,0 712,132,819,260,0 629,179,651,199,0 190,188,257,243,1 264,160,329,230,1 586,176,624,211,0 146,183,190,222,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002116.png 726,172,754,197,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002123.png 695,160,715,181,0 559,191,715,329,0 571,177,656,249,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002128.png 373,204,453,268,1 435,182,494,240,1 532,157,564,205,1 604,180,634,209,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002155.png 588,176,667,251,0 789,141,933,302,0 711,171,772,239,0 671,171,698,204,0 656,174,674,199,0 20,178,104,263,1 210,181,264,238,1 315,189,355,224,1 428,181,455,204,1 455,175,477,201,1 487,174,505,193,1 527,177,542,191,1 134,181,173,226,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002168.png 193,185,155,251,1 310,177,296,224,1 474,176,493,195,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002185.png 623,180,651,203,0 294,185,270,241,1 169,184,126,263,1 734,174,854,297,0 188,208,365,370,1 610,166,640,196,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002217.png 582,176,644,237,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002245.png 809,149,820,175,1 545,164,569,184,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002313.png 644,178,681,210,0 600,172,632,202,0 661,172,690,199,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002370.png 584,177,600,190,0 309,186,367,236,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002423.png 272,181,250,238,1 677,171,755,251,0 377,191,470,276,1 599,166,628,194,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002432.png 700,125,804,239,0 278,187,318,222,1 424,180,445,197,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002458.png 585,181,601,193,0 471,182,495,206,1 511,179,529,195,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002563.png 392,181,425,229,1 593,176,616,216,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002565.png 454,168,482,191,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002578.png 788,170,859,235,0 330,185,397,255,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002597.png 400,187,484,264,0 583,177,628,218,0 540,174,572,206,0 165,192,255,276,1 512,177,535,198,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002788.png 269,188,328,243,1 343,186,388,228,1 465,179,491,204,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002817.png 294,201,441,329,1 809,178,980,330,0 468,175,526,243,1 516,182,567,227,1 792,178,887,270,0 845,166,913,239,0 874,164,872,208,0 993,164,1026,198,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002845.png 298,181,280,233,1 669,171,739,242,0 407,188,488,262,1 599,166,626,192,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002934.png 536,224,663,329,0 426,218,512,293,0 349,209,419,271,0 74,212,140,272,1 293,217,337,251,0 146,219,179,244,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/002985.png 587,172,613,199,0 378,171,416,211,1 540,173,565,200,0 470,177,490,195,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003005.png 546,175,717,339,0 243,181,296,230,1 378,180,409,210,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003036.png 581,178,642,237,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003091.png 568,178,623,232,0 644,180,664,199,0 821,173,841,189,0 841,166,862,189,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003135.png 334,196,444,296,1 599,179,633,210,1 764,175,792,198,0 494,177,506,210,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003280.png 383,197,489,298,0 718,167,828,287,0 501,189,547,231,1 671,187,727,236,0 547,183,572,205,1 632,179,655,200,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003431.png 324,194,435,293,1 541,182,571,206,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003445.png 587,184,625,218,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003543.png 551,171,574,192,0 535,168,570,203,0 203,181,205,236,0 329,170,359,204,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003545.png 676,174,700,195,0 734,162,761,189,0 500,181,547,227,0 246,158,301,235,1 475,141,517,208,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003581.png 250,208,362,296,1 377,191,440,248,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003623.png 519,203,559,241,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003718.png 527,169,552,192,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003800.png 451,175,551,269,0 804,170,953,311,0 511,176,581,240,0 715,175,756,211,0 761,182,842,255,0 615,172,644,199,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003854.png 546,174,719,340,0 281,180,328,224,1 393,179,422,207,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003864.png 663,180,698,209,0 328,184,359,262,0 106,191,25,298,1 644,164,680,199,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003869.png 587,174,613,199,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003902.png 354,197,411,250,1 674,176,729,223,0 409,193,453,232,1 459,180,495,218,1 481,181,511,210,1 1144,131,1187,182,1 13,208,60,249,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/003932.png 732,177,829,277,1 448,186,515,244,1 684,183,745,240,0 522,181,554,213,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004023.png 166,157,238,261,1 991,197,1106,293,0 972,185,1058,257,0 670,174,694,202,1 915,180,960,221,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004077.png 553,173,713,326,0 405,181,433,205,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004088.png 598,175,658,233,0 730,181,791,239,0 1142,164,1191,204,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004089.png 582,176,600,190,0 223,187,303,259,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004104.png 545,185,593,222,0 492,180,526,208,0 762,183,775,208,1 871,185,892,212,1 553,163,577,197,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004140.png 587,162,620,198,0 378,184,401,205,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004161.png 726,113,862,260,0 341,187,371,212,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004196.png 103,216,200,331,0 297,165,347,295,0 1005,179,1059,257,0 666,184,709,225,0 220,195,179,273,1 261,193,227,259,1 452,191,464,235,0 636,183,670,212,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004201.png 295,200,421,306,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004421.png 604,177,645,218,0 266,200,385,305,1 415,184,484,247,1 487,181,528,216,1 527,174,552,199,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004459.png 555,173,616,234,0 97,167,127,198,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004488.png 35,79,250,343,1 400,178,476,240,1 1090,161,1122,199,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004495.png 537,182,562,204,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004539.png 485,184,536,230,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004545.png 458,189,514,252,1 520,190,557,226,1 556,184,580,210,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004568.png 460,174,485,209,1 554,186,570,200,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004586.png 598,182,659,241,0 226,187,270,231,1 299,188,356,239,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004686.png 566,183,586,201,0 667,181,765,271,0 237,195,334,273,0 116,168,203,250,0 351,189,414,242,0 523,181,568,223,0 394,184,441,223,0 292,185,341,224,0 441,184,470,210,0 339,172,378,212,0 457,182,481,204,0 476,170,498,200,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004734.png 789,173,881,257,0 563,182,608,217,0 721,132,785,220,0 591,178,621,206,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004740.png 559,178,594,211,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004758.png 596,179,662,242,0 846,175,977,318,0 725,178,791,250,0 10,179,96,276,1 416,183,469,226,1 561,173,584,199,1 280,183,326,231,1 431,183,462,211,1 670,174,686,191,0 136,186,180,233,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004764.png 691,185,774,257,0 406,191,470,239,0 640,182,684,224,0 458,181,502,223,0 490,183,518,210,1 619,179,648,207,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004791.png 589,177,620,208,0 134,171,132,205,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004850.png 597,174,624,200,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004883.png 569,180,637,245,0 108,209,154,244,1 205,201,251,241,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/004895.png 464,187,504,227,0 478,183,513,216,1 251,177,236,235,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005054.png 462,195,528,255,1 677,183,746,249,0 654,182,698,227,0 540,188,569,215,1 644,177,674,212,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005079.png 823,203,949,330,0 660,170,711,229,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005160.png 394,189,466,251,1 259,192,377,299,1 745,170,802,220,1 460,182,511,231,1 506,184,542,219,1 640,177,677,211,0 680,174,703,202,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005166.png 901,172,980,246,1 769,172,851,242,1 267,191,316,226,0 521,175,528,212,0 34,192,76,223,1 208,183,233,205,0 673,157,792,315,0 419,199,493,260,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005191.png 709,186,779,249,0 637,178,665,203,0 290,187,404,291,0 151,187,231,259,0 443,179,493,227,0 324,183,371,227,0 397,172,430,212,0 499,181,532,209,0 439,171,471,204,0 523,180,548,202,0 587,178,616,205,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005228.png 53,177,87,216,0 98,166,122,198,0 567,172,627,232,0 208,167,232,192,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005267.png 523,177,568,218,1 583,174,612,199,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005271.png 586,158,621,195,0 148,192,193,234,1 451,181,472,197,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005323.png 583,175,637,227,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005419.png 441,159,527,256,1 657,181,697,221,0 642,175,677,213,0 546,176,562,195,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005489.png 282,193,399,310,0 407,185,483,256,1 486,183,525,215,1 501,175,530,205,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005513.png 599,137,650,200,0 368,178,388,198,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005605.png 715,189,804,275,0 537,180,579,224,1 688,185,746,240,0 683,180,726,225,0 667,180,705,216,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005607.png 600,144,651,207,0 356,182,377,203,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005614.png 946,180,984,212,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005634.png 338,195,439,276,1 148,204,251,290,1 640,177,676,211,0 444,189,499,236,1 873,165,858,201,0 845,156,831,199,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005662.png 556,187,575,203,1 590,180,615,206,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005673.png 514,179,564,224,1 585,175,615,201,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005678.png 249,202,393,330,1 514,185,552,218,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005702.png 534,182,562,207,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005710.png 530,171,562,205,1 557,173,574,192,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005761.png 290,220,413,304,1 752,185,874,289,0 464,181,511,227,1 672,180,720,225,0 482,165,528,218,1 654,179,698,217,0 450,155,460,204,0 598,169,621,193,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005780.png 520,164,738,372,0 377,185,403,205,1 334,188,359,208,1 424,182,449,201,1 1085,175,1058,215,0 762,169,775,205,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005848.png 519,166,739,374,0 377,185,403,205,1 334,188,359,208,1 424,181,449,201,1 1085,175,1057,215,0 104,186,135,227,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005878.png 123,190,182,243,1 90,189,142,238,1 366,185,395,210,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005881.png 413,174,524,277,0 790,169,955,325,0 483,176,558,244,0 695,174,737,212,0 741,179,827,257,0 593,171,623,198,0 684,174,713,202,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005896.png 607,190,625,206,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005913.png 740,175,791,220,0 75,203,122,240,0 795,177,818,197,0 861,173,879,187,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005925.png 590,178,606,191,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/005979.png 698,173,728,219,0 150,178,277,309,1 431,175,492,231,1 465,164,520,220,1 509,172,550,205,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006052.png 767,195,870,284,0 117,164,40,284,1 664,174,705,216,0 484,178,494,217,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006116.png 599,173,630,203,0 684,161,712,192,0 332,186,366,217,1 305,189,333,215,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006295.png 592,177,637,219,0 825,164,973,334,0 782,178,874,278,0 731,177,794,250,0 500,180,522,199,1 365,188,415,235,1 677,174,710,218,0 657,175,685,207,0 640,168,662,197,0 442,176,465,200,1 462,177,482,197,1 420,178,435,196,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006324.png 377,192,485,295,1 803,203,973,366,1 737,182,821,271,1 513,184,557,224,1 659,180,705,225,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006371.png 476,169,529,225,1 721,174,833,285,0 685,185,764,252,0 518,177,559,211,0 634,173,658,196,1 395,168,414,231,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006432.png 687,173,707,191,0 659,172,704,215,0 514,175,563,226,0 433,183,459,213,1 524,181,543,201,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006470.png 503,184,556,237,1 403,185,468,240,1 47,187,34,231,1 324,175,410,282,0 56,211,137,266,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006475.png 334,179,428,266,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006510.png 538,174,563,195,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006566.png 581,184,614,213,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006627.png 454,172,498,224,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006629.png 476,189,553,250,0 785,95,917,277,0 693,175,731,212,0 536,181,580,223,0 725,174,790,239,0 667,175,692,197,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006716.png 677,179,693,196,0 421,172,456,212,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006819.png 846,118,874,142,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006865.png 564,179,582,194,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006922.png 229,196,344,299,1 366,188,441,253,1 804,183,912,281,0 426,186,482,234,1 744,179,818,247,0 520,179,550,207,1 713,178,769,229,0 701,177,745,217,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006942.png 931,184,1022,353,1 284,183,259,239,1 337,182,317,231,1 643,182,689,224,0 619,177,648,203,0 600,167,617,187,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/006985.png 1131,166,1114,199,0 559,178,576,197,1 512,179,529,198,1 577,176,590,194,1 533,179,547,196,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007026.png 1000,161,1117,253,1 421,183,468,219,0 674,165,682,206,0 220,185,255,214,1 378,175,401,197,0 562,194,647,267,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007040.png 610,191,627,206,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007045.png 402,174,419,235,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007046.png 588,186,654,239,0 216,176,368,314,0 348,188,438,273,0 423,189,488,256,0 488,182,531,231,0 543,180,566,208,0 753,190,830,253,0 712,176,767,228,0 596,179,635,214,0 176,175,225,217,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007062.png 186,217,354,357,1 578,181,601,204,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007116.png 674,178,710,214,0 909,202,1077,360,0 792,178,832,217,0 981,182,1058,258,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007157.png 604,178,631,205,0 241,198,292,246,1 300,188,336,228,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007187.png 308,189,341,216,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007203.png 279,137,457,338,1 686,180,738,233,0 666,174,710,222,0 550,172,568,193,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007262.png 576,177,604,205,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007282.png 786,185,975,352,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007314.png 595,175,638,216,0 799,179,936,308,0 739,169,829,270,0 716,174,783,245,0 697,169,741,231,0 682,174,714,214,0 499,181,522,202,1 660,173,682,203,0 646,174,666,198,0 639,169,656,192,0 476,176,495,195,1 454,177,467,191,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007367.png 1071,178,1081,214,0
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007422.png 665,180,715,227,0 246,206,375,315,1 1024,168,988,221,0 960,153,932,214,0 426,184,467,226,0 317,196,381,254,1 874,167,859,208,0 476,186,506,214,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007462.png 453,187,505,233,1 921,203,1091,346,0 798,181,884,269,0 743,184,807,243,0 490,184,532,220,1 718,182,768,228,0 514,184,549,214,1 701,180,742,218,0 562,181,585,202,1
+/mnt/dgx1_data/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2/007466.png 565,169,584,188,0 586,169,614,194,0 521,171,558,203,0 329,170,360,203,1

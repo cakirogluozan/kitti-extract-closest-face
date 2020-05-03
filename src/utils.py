@@ -110,16 +110,17 @@ def get_valid_kitti_face(objects, calib, image_shape, yaw_th):
             class_ = 'back'
             
         pts_list    = list()
-        
-        flag = False
+        # print(image_shape, 'image shape')
+        flag_val, flag_int = False, False
         for ind in range(len(box3d_pixelcoord[0])):
             if ind in valid_pts_ind:
+                flag_val = True
                 x = int(box3d_pixelcoord[0][ind])
                 y = int(box3d_pixelcoord[1][ind])
-                if x < 0 or y < 0 or x > image_shape[1] or y > image_shape[0]:
-                    flag = True
+                if x < 0 or y < 0 or x >= image_shape[1] or y >= image_shape[0]:
+                    flag_int = True
                 pts_list.append((x, y)) 
-        if not flag:
+        if not flag_int and flag_val:
             bbox_list.append(pts_list)
             class_list.append(class_)
     return bbox_list, class_list
