@@ -92,7 +92,7 @@ def map_box_to_image(box, proj_mat):
 
     return points_2d
 
-def get_valid_kitti_face(objects, calib, yaw_th):
+def get_valid_kitti_face(objects, calib, image_shape, yaw_th):
     P_rect2cam2 = calib['P2'].reshape((3, 4))
     class_list  = list()
     bbox_list  = list()
@@ -116,7 +116,7 @@ def get_valid_kitti_face(objects, calib, yaw_th):
             if ind in valid_pts_ind:
                 x = int(box3d_pixelcoord[0][ind])
                 y = int(box3d_pixelcoord[1][ind])
-                if x < 0 or y < 0:
+                if x < 0 or y < 0 or x > image_shape[1] or y > image_shape[0]:
                     flag = True
                 pts_list.append((x, y)) 
         if not flag:
@@ -172,7 +172,7 @@ def write_labels(image_list, label_list, calib_list, visualize=False, yaw_th=0.4
             objects = load_label(label_list[i])
             image  = plt.imread(image_list[i])
 
-            bbox_list, class_list = get_valid_kitti_face(objects, calib, yaw_th)
+            bbox_list, class_list = get_valid_kitti_face(objects, calib, image.shape, yaw_th)
             line = label_line(image_list[i], bbox_list, class_list)
             if type(line) != type(None):
                 f.write(line)
