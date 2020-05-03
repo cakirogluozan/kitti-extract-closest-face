@@ -148,7 +148,7 @@ def visualize_bbox(image, bbox_list, class_list):
 def label_line(image_path, bbox_list, class_list):
     # image_path xmin,ymin,xmax,ymax,classid xmin..    
     if len(bbox_list) == 0:
-        return ""
+        return None
     line = "{} ".format(image_path)
 
     for ind in range(len(bbox_list)):
@@ -174,7 +174,8 @@ def write_labels(image_list, label_list, calib_list, visualize=False, yaw_th=0.4
 
             bbox_list, class_list = get_valid_kitti_face(objects, calib, yaw_th)
             line = label_line(image_list[i], bbox_list, class_list)
-            f.write(line)
+            if type(line) != type(None):
+                f.write(line)
             if visualize:
                 visualize_bbox(image, bbox_list, class_list)       
 
