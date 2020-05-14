@@ -1,7 +1,8 @@
-import cv2
+import cv2, os
 import numpy as np
 from matplotlib import pyplot as plt
 from tqdm import trange
+
 
 class Box3D(object):
     """
@@ -110,17 +111,14 @@ def get_valid_kitti_face(objects, calib, image_shape, yaw_th):
             class_ = 'back'
             
         pts_list    = list()
-        # print(image_shape, 'image shape')
-        flag_val, flag_int = False, False
+
         for ind in range(len(box3d_pixelcoord[0])):
             if ind in valid_pts_ind:
                 flag_val = True
                 x = int(box3d_pixelcoord[0][ind])
                 y = int(box3d_pixelcoord[1][ind])
-                if x < 0 or y < 0 or x >= image_shape[1] or y >= image_shape[0]:
-                    flag_int = True
                 pts_list.append((x, y)) 
-        if not flag_int and flag_val:
+        if len(pts_list) > 0:
             bbox_list.append(pts_list)
             class_list.append(class_)
     return bbox_list, class_list
@@ -146,41 +144,62 @@ def visualize_bbox(image, bbox_list, class_list):
     plt.figure(figsize=(25,20));
     plt.imshow(image);
 
-def label_line(image_path, bbox_list, class_list):
+def label_line(bbox_list, class_list, image_shape):
     # image_path xmin,ymin,xmax,ymax,classid xmin..    
-    if len(bbox_list) == 0:
-        return None
-    line = "{} ".format(image_path)
+    line = ""
 
     for ind in range(len(bbox_list)):
-        bbox   = bbox_list[ind]
-        (x1, y1) = bbox[3]
-        (x2, y2) = bbox[0]
+        x1   = np.min(np.array(bbox_list[ind])[:,0])
+        x2   = np.max(np.array(bbox_list[ind])[:,0])
+        y1   = np.min(np.array(bbox_list[ind])[:,1])
+        y2   = np.max(np.array(bbox_list[ind])[:,1])
+        height, width = image_shape[:2]
+        
+        norm_x1, norm_y1 = x1 / width, y1 / height
+        norm_x2, norm_y2 = x2 / width, y2 / height
+
+        x_cen, y_cen = (norm_x2 + norm_x1) / 2, (norm_y2 + norm_y1) / 2
+        w, h = norm_x2 - norm_x1, norm_y2 - norm_y1
+
+        if norm_x1 < 0 or norm_x1 > 1:
+            continue
+        if norm_x2 < 0 or norm_x2 > 1:
+            continue
+        if norm_y1 < 0 or norm_y1 > 1:
+            continue
+        if norm_y2 < 0 or norm_y2 > 1:
+            continue
+
         class_ = class_list[ind]
         class_id = 1 if class_ == 'front' else 0
-        obj_line = "{},{},{},{},{}".format(x1,y1,x2,y2,class_id)
-        if ind == len(bbox_list)-1:
-            obj_line += "\n"
+
+        if True:
+            obj_line = "{} {} {} {} {}\n".format(class_id,x_cen,y_cen,w,h)
         else:
-            obj_line += " "
+            obj_line = "{},{},{},{},{}\n".format(x1,y1,x2,y2,class_id)
+
         line += obj_line
     return line
 
 def write_labels(image_list, label_list, calib_list, visualize=False, yaw_th=0.4):
-    with open('../output/kitti_train.txt', 'w') as f:
-        for i in trange(len(label_list)):
-            calib  = read_calib_file(calib_list[i])
-            objects = load_label(label_list[i])
-            image  = plt.imread(image_list[i])
+    data_f = open('data.txt', 'w')
+    for i in trange(len(image_list)):
+        calib  = read_calib_file(calib_list[i])
+        objects = load_label(label_list[i])
+        image  = plt.imread(image_list[i])
 
-            bbox_list, class_list = get_valid_kitti_face(objects, calib, image.shape, yaw_th)
-            line = label_line(image_list[i], bbox_list, class_list)
-            if type(line) != type(None):
-                f.write(line)
-            if visualize:
-                visualize_bbox(image, bbox_list, class_list)       
+        bbox_list, class_list = get_valid_kitti_face(objects, calib, image.shape, yaw_th)
+        line = label_line(bbox_list, class_list, image.shape)
+        if len(line) > 0:
+            data_f.write('data/images/' + image_list[i].split('/')[-1] + '\n')
+            with open(os.path.join('agu', label_list[i].split('/')[-1]), 'w') as f:
+                if type(line) != type(None):
+                    f.write(line)
+                if visualize:
+                    visualize_bbox(image, bbox_list, class_list)       
 
-    f.close()
+                f.close()
+    data_f.close()
 # =========================================================
 # Utils
 # =========================================================

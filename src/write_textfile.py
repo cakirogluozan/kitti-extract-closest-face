@@ -5,11 +5,13 @@ from utils import write_labels
 if __name__ == '__main__':
 
     # TODO:
-    dgxs=True
+    dgxs=False
 
-    CALIB_DIR = "/raid/data/l4data/benchmark_data/kitti-ozan/object/data_object_calib/training/calib"
-    IMAGE_DIR = "/raid/data/l4data/benchmark_data/kitti-ozan/object/data_object_image_2/training/image_2"
-    LABEL_DIR = "/raid/data/l4data/benchmark_data/kitti-ozan/object/training/label_2"
+    KITTI_DIR = "/home/ocakirog/Desktop/Datasets/KITTI/"
+    CALIB_DIR = os.path.join(KITTI_DIR, 'data_object_calib/training/calib')
+    IMAGE_DIR = os.path.join(KITTI_DIR, 'data_object_image_2/training/image_2')
+    LABEL_DIR = os.path.join(KITTI_DIR, 'data_object_label_2/training/label_2')
+
     if dgxs:
         CALIB_DIR = CALIB_DIR.replace('/raid', '/mnt/dgx1_data')
         IMAGE_DIR = IMAGE_DIR.replace('/raid', '/mnt/dgx1_data')
